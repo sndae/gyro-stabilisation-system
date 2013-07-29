@@ -1,0 +1,9 @@
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\bin\Debug\SemaphoreAppKeyb.exe
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\bin\Debug\SemaphoreAppKeyb.pdb
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\SemaphoreAppKeyb.Form1.resources
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\SemaphoreAppKeyb.Properties.Resources.resources
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\SemaphoreAppKeyb.exe
+D:\SVN\C_Sharp\SemaphoreAppKeyb\SemaphoreAppKeyb\SemaphoreAppKeyb\obj\x86\Debug\SemaphoreAppKeyb.pdb
