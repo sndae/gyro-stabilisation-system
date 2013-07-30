@@ -20,7 +20,14 @@ namespace SemaphoreAppKeyb
         {
 
         }
-    }
 
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Text = Program.press_count.ToString();
+            label2.Text = Program.Length.ToString();
+            label3.Text = Program.ActiveWindowName;
+            this.Update();
+        }
+    }
 }
 
