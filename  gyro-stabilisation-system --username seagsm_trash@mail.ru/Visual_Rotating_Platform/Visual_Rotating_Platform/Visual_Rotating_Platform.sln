@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual_Rotating_Platform", "Visual_Rotating_Platform\Visual_Rotating_Platform.csproj", "{A505B4AC-9F2D-41AC-8A45-444513CBDE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A505B4AC-9F2D-41AC-8A45-444513CBDE9E}.Debug|x86.ActiveCfg = Debug|x86
+		{A505B4AC-9F2D-41AC-8A45-444513CBDE9E}.Debug|x86.Build.0 = Debug|x86
+		{A505B4AC-9F2D-41AC-8A45-444513CBDE9E}.Release|x86.ActiveCfg = Release|x86
+		{A505B4AC-9F2D-41AC-8A45-444513CBDE9E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
