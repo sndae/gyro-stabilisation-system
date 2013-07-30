@@ -38,6 +38,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.SuspendLayout();
             // 
             // button1
@@ -62,6 +63,7 @@
             // timer1
             // 
             this.timer1.Enabled = true;
+            this.timer1.Interval = 500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label2
@@ -84,9 +86,9 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(27, 227);
+            this.progressBar1.Location = new System.Drawing.Point(12, 227);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(100, 23);
+            this.progressBar1.Size = new System.Drawing.Size(245, 23);
             this.progressBar1.TabIndex = 4;
             // 
             // label4
@@ -115,6 +117,11 @@
             this.label6.Size = new System.Drawing.Size(85, 13);
             this.label6.TabIndex = 7;
             this.label6.Text = "ActieForm Name";
+            // 
+            // notifyIcon1
+            // 
+            this.notifyIcon1.Text = "notifyIcon1";
+            this.notifyIcon1.Visible = true;
             // 
             // Form1
             // 
@@ -147,6 +154,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.NotifyIcon notifyIcon1;
     }
 }
 

@@ -25,6 +25,21 @@ namespace SemaphoreAppKeyb
         {
             label1.Text = Program.press_count.ToString();
             label2.Text = Program.Length.ToString();
+
+            if (Program.press_count <= 100)
+            {
+                progressBar1.Value = Program.press_count;
+            }
+            else
+            { 
+                progressBar1.Value = 100; 
+            }
+
+            if(Program.press_count > 0)
+            {
+                Program.press_count--;
+            }
+
             label3.Text = Program.ActiveWindowName;
             this.Update();
         }
